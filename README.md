@@ -18,3 +18,10 @@ The dashboard is built using data from a sample sales dataset, which includes in
 # Tools and Technologies
 * Power BI: Used to create the interactive dashboard.
 * GitHub: Used for version control and sharing the project.
+# E-Commerce Sales Dashboard
+![E-Commerce Sales Dashboard](https://github.com/Hadawale07/Power-BI-Sales-Dashboard/assets/141478197/0db62171-22c8-4744-8887-037a4a7ac5b5)
+# E-Commerce Sales Forecasting Dashboard
+![E-Commerce Sales forecasting](https://github.com/Hadawale07/Power-BI-Sales-Dashboard/assets/141478197/70d09ec3-1cd2-4e22-b578-7b51247774a8)
+
+
+
